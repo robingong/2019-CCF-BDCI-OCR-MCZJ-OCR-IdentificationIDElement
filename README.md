@@ -75,7 +75,7 @@
   运行的环境要求
 
 # 注意
-  去水印模型[地址](https://github.com/Mingtzge/models_data)
+  去水印模型[地址](https://github.com/Mingtzge/models_data) 2 (https://github.com/robingong/models_data)
   
   这项是工程的submodel,需要克隆的时候需要加上"--recursive"参数 
   去水印模型较大,采用了git-lfs,要安装这个包,不然可能会导致clone失败或者比较慢
