@@ -17,7 +17,7 @@
   我们采用条件生成对抗网络(CGAN)处理赛题中的水印干扰,取到了比较好的效果,展示一下效果图片:
   ![去水印效果](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement/blob/master/show_imgs/%E5%8E%BB%E6%B0%B4%E5%8D%B0%E6%95%88%E6%9E%9C.png)
   
-  [生成仿真数据源码](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-fake_data_generator),生成仿真训练数据训练去水印模型和文字识别模型
+  [生成仿真数据源码](https://github.com/robingong/2019-CCF-BDCI-OCR-MCZJ-fake_data_generator),生成仿真训练数据训练去水印模型和文字识别模型
   
   [方案PPT](https://discussion.datafountain.cn/questions/2260/answers/23380) [方案论文](https://discussion.datafountain.cn/questions/2232/answers/23321)
   
